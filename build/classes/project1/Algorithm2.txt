@@ -1,0 +1,15 @@
+01 Steps for MilesToKilometers with Miles
+02 Set the value of Kilometers_per_mile to 1.609
+03 Set the value of Kilometers to Miles * Kilometers_per_mile
+04 Stop
+
+
+
+
+
+1. MilesToKilometers w/ miles, kilometers and kilometers_per_mile as variables.
+2. Set the value of kilometers_per_mile to 1.609.
+3. Set the value of miles to 100.
+4. Calculate the value for kilometers by setting kilometers = miles * kilometers_per_mile.
+5. Display the value of kilometers.
+6. Stop.
