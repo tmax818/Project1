@@ -1,0 +1,6 @@
+1. TriangleArea w/ area, base, and height as variables.
+2. Set the base variable to the given value.
+3. Set the height variable to the given value.
+4. Set area = 0.5 * base * height.
+5. Display the value for area.
+6. Stop.
