@@ -1,20 +1,16 @@
 package project1;
 
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Project #1
+ * Source Code File: MyInitials.java
+ * Programmer: Tyler Maxwell
+ * Due: 9/9/19
+ * Description: Part 2 of Project 1. A program that calculates and displays the perimeter and area of a circle with a radius of 5.5.
  */
 
-/**
- *
- * @author Your Name
- */
 public class MyInitials {
 
-    /**
-     * @param args the command line arguments
-     */
+
     public static void main(String[] args) {
         // TODO code application logic here
     }
